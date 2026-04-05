@@ -1,0 +1,10 @@
+2026-04-05 12:30:45 INFO  Application started successfully
+2026-04-05 12:31:02 WARN  Low memory detected
+2026-04-05 12:31:15 ERROR Failed to connect to database
+2026-04-05 12:32:00 INFO  User 'alice' logged in
+2026-04-05 12:33:10 ERROR Timeout while processing request
+2026-04-05 12:34:22 WARN  Disk usage at 85%
+2026-04-05 12:35:05 INFO  Scheduled job executed
+2026-04-05 12:36:45 ERROR NullPointerException in module X
+2026-04-05 12:37:30 INFO  User 'bob' logged out
+2026-04-05 12:38:55 WARN  Configuration file missing optional field

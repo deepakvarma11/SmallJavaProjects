@@ -2,7 +2,7 @@ package com.urlShortner;
 
 import java.util.Scanner;
 
-public class URLShortener {
+public class URLShortenerMain {
 
     public static void main(String[] args) {
         ShortenerUtil shortenUtil = new ShortenerUtil();

@@ -2,7 +2,7 @@ package com.passManager;
 
 import java.util.Scanner;
 
-public class PasswordManager {
+public class PasswordManagerMain {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         CredentialUtils credentialUtils = new CredentialUtils();
